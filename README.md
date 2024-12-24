@@ -6,34 +6,34 @@ This project provides an interactive dashboard for analyzing sales data from a c
 
 ## 🛠️Features
 
--**💸 Total Sales and Foot Traffic**
+1. **💸 Total Sales and Foot Traffic**
 Displays total revenue ($698,812.33) and total footfall (149,116 customers).
 Average bill per person: $4.66.
 Average orders per person: 1.43.
 
--**🔍Filters**
+2. **🔍Filters**
 
 Allows filtering data by month (January to June).
 Allows filtering data by day (Sunday to Saturday).
 
--**📈Sales Analysis**
+3. **📈Sales Analysis**
 
 Quantity ordered based on hours to identify peak order times.
 Categories distribution by sales percentage (e.g., Coffee - 39%, Bakery - 12%).
 
--**📊Order Size Distribution**
+4. **📊Order Size Distribution**
 
 Pie chart visualizing order sizes: Large (31%), Regular (31%), Not Defined (28%), Small (10%).
 
--**💼 Store Performance**
+5. **💼 Store Performance**
 
 Sales and foot traffic at different store locations (e.g., Astoria, Hell's Kitchen, Lower Manhattan).
 
--**👉 Top Products**
+6. **👉 Top Products**
 
 Highlights top 5 products based on sales (e.g., Barista Espresso - $1,730.80, Hot Chocolate - $1,397.50).
 
--**🎉 Weekend Sales**
+7. **🎉 Weekend Sales**
 
 Foot traffic analysis during weekends (Sunday - 2725, Saturday - 2206).
 
