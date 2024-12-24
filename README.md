@@ -13,7 +13,7 @@
 
 ## 🛠️Features
 
-1. **💸 Total Sales and Foot Traffic**
+1. **💸Total Sales and Foot Traffic**
 
     Displays total revenue ($698,812.33) and total footfall (149,116 customers).
    
