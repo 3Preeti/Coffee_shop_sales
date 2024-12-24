@@ -11,7 +11,6 @@
 1. **💸 Total Sales and Foot Traffic**
 
     Displays total revenue ($698,812.33) and total footfall (149,116 customers).
-   
     Average bill per person: $4.66.
    
     Average orders per person: 1.43.
