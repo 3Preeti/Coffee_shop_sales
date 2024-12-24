@@ -6,6 +6,9 @@
    dashboard visualizes key metrics such as total sales, foot traffic, order trends, and product 
    performance to help understand sales patterns and customer behavior.
 
+---
+
+
 ## 🛠️Features
 
 1. **💸 Total Sales and Foot Traffic**
@@ -45,6 +48,10 @@
 
    Foot traffic analysis during weekends (Sunday - 2725, Saturday - 2206).
 
+
+ ---
+
+
 ### 💻 Technologies Used
 
    - Power BI for creating the interactive dashboard.
@@ -52,6 +59,10 @@
    - Excel for data processing and transformation.
      
    - Image Files for visual representation.
+
+
+  ---
+
 
 ### 🔧 How to Use
 
@@ -61,18 +72,31 @@
    
    - Analyze specific trends by adjusting the filters based on date and time.
 
+
+---
+
+
 ### 📂 Files
 
    - Dataset: Contains raw sales data [Coffee Shop Sales Dataset](Coffee_Shop_Sales.xlsx)
    
    - Power BI : BI dashboard file[coffee_sales1](coffee_sales1.pbix)
+
+
+  ---
+
   
 
 ### 📜 License
 
    Refer to the LICENSE file for terms and conditions.See the [MIT LICENSE](LICENSE)
 
+
+---
+
+
 ### 👤 Contact
 
    For queries or suggestions, please contact the project owner and feel free to contribute.
 
+Thank you for checking out this project!
