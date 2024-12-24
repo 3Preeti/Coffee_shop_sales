@@ -9,18 +9,23 @@
 ## 🛠️Features
 
 1. **💸 Total Sales and Foot Traffic**
+
     Displays total revenue ($698,812.33) and total footfall (149,116 customers).
+   
     Average bill per person: $4.66.
+   
     Average orders per person: 1.43.
 
 2. **🔍Filters**
 
     Allows filtering data by month (January to June).
+   
     Allows filtering data by day (Sunday to Saturday).
 
 3. **📈Sales Analysis**
 
     Quantity ordered based on hours to identify peak order times.
+   
     Categories distribution by sales percentage (e.g., Coffee - 39%, Bakery - 12%).
 
 4. **📊Order Size Distribution**
@@ -43,18 +48,23 @@
 ### 💻 Technologies Used
 
    - Power BI for creating the interactive dashboard.
+     
    - Excel for data processing and transformation.
+     
    - Image Files for visual representation.
 
 ### 🔧 How to Use
 
    Open the coffee_sales1.pbix file in Power BI Desktop.
+   
    Interact with filters and visualizations to explore the data.
+   
    Analyze specific trends by adjusting the filters based on date and time.
 
 ### 📂 Files
 
    Dataset: Contains raw sales data [Coffee Shop Sales Dataset](Coffee_Shop_Sales.xlsx)
+   
    Power BI : BI dashboard file[coffee_sales1](coffee_sales1.pbix)
   
 
