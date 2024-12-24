@@ -1,5 +1,7 @@
  # 🍵Coffee Shop Sales Dashboard
 
+ ---
+
 ## 📊 Overview
 
    This project provides an interactive dashboard for analyzing sales data from a coffee shop. 🌟 The 
