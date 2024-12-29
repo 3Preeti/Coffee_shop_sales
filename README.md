@@ -2,6 +2,8 @@
 
  ---
 ![Coffee](images/coffee.png)
+<img src="images/coffee.png" alt="Logo" width="200" height="100">
+
  
 
 ## 📊 Overview
