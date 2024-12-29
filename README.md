@@ -1,6 +1,8 @@
  # 🍵Coffee Shop Sales Dashboard
 
  ---
+![Coffee](images/coffee.png)
+ 
 
 ## 📊 Overview
 
